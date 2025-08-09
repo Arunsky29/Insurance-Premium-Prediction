@@ -3,10 +3,12 @@ This project predicts insurance premium amounts using machine learning technique
 
 📌 Project Workflow
 
-![Workflow](assets/workflow.png)
+<img width="1106" height="1696" alt="image" src="https://github.com/user-attachments/assets/b5040a01-9805-4fff-90e2-db84a8b25618" />
+
 
 📂 Dataset
-The dataset used in this project can be accessed here: Google Drive Link
+The dataset used in this project can be accessed here:  [Google Drive Link](https://drive.google.com/drive/folders/1HKBjaOIVIcJ3hu5LuXmlMfWPVOeAGreG?usp=sharing)
+
 
 ⚠️ Note: CSV files are not stored in this repository due to GitHub’s 100MB file size limit.
 
@@ -39,7 +41,3 @@ Documentation for each stage of the workflow.
 
 📜 License
 This project is licensed under the MIT License.
-
-
-## Dataset
-The dataset used in this project can be accessed here: [Google Drive Link](https://drive.google.com/drive/folders/1HKBjaOIVIcJ3hu5LuXmlMfWPVOeAGreG?usp=sharing)
