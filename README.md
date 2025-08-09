@@ -1,4 +1,4 @@
-Insurance Premium Prediction
+Insurance Premium Prediction : 
 This project predicts insurance premium amounts using machine learning techniques. It processes train.csv and test.csv datasets through data exploration (EDA), data cleaning, feature encoding, and feature scaling. The final model uses XGBoost Regression to capture complex relationships between customer details and premium values.
 
 📌 Project Workflow
