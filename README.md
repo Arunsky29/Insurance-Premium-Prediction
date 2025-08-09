@@ -3,12 +3,8 @@ This project predicts insurance premium amounts using machine learning technique
 
 📌 Project Workflow
 
-flowchart LR
-    A[Dataset: train.csv, test.csv] --> B[Data Preprocessing]
-    B --> C[Exploratory Data Analysis (EDA)]
-    C --> D[Feature Encoding & Scaling]
-    D --> E[Model Training - XGBoost]
-    E --> F[Prediction Generation - submission.csv]
+![Workflow](assets/workflow.png)
+
 📂 Dataset
 The dataset used in this project can be accessed here: Google Drive Link
 
